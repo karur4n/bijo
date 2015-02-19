@@ -11,7 +11,7 @@ module Bijo
       if arguments.valid?
         Command.new(arguments)
       else
-        p 'in CommandBuilder: arguments is not valid'
+        fail ArgumentError, 'arguments is invalid'
       end
     end
 
