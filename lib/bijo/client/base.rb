@@ -3,7 +3,6 @@ require 'bijo/image'
 require 'json'
 require 'open-uri'
 require 'tempfile'
-# require 'uri'
 
 module Bijo
   module Client
