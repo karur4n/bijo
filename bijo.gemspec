@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["karur4n"]
   spec.email         = ["karuran.f@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
+  spec.summary       = 'Watch beauty woman image from terminal'
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
