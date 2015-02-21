@@ -19,6 +19,7 @@ module Bijo
     end
 
     def request_service
+      # 後々、リクエスト先サービスを切り替える際にちゃんと実装する
       'tumblr'
     end
 
