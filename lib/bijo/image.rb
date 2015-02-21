@@ -8,7 +8,7 @@ module Bijo
 
     def extension
       extension_regexp = /(.*)(?:(\.[^.]+$))/
-      p @image_url.match(extension_regexp)[2]
+      @image_url.match(extension_regexp)[2]
     end
 
     def content
