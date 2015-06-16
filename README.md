@@ -2,7 +2,7 @@
 
 Watch beauty woman from terminal.
 
-!! NOTE: This gem is only to show image from tumblr search.
+:warning: NOTE: This gem is only to show image from tumblr search.
 
 ## Usage
 Only this.
