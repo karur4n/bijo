@@ -1,6 +1,6 @@
 # Bijo
 
-Watch beauty woman from terminal.
+Call beauty woman from terminal.
 
 :warning: NOTE: This gem is only to show image from tumblr search.
 
